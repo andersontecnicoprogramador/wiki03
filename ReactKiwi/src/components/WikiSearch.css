@@ -1,0 +1,15 @@
+.wiki-search-box {
+  width: 700px;
+  margin: 20px auto 0 auto;
+}
+
+@media(max-width: 700px) {
+  .wiki-search-box {
+    width: auto;
+  }
+}
+
+.wiki-title {
+  font-family: 'Arial, serif';
+  font-size: 40px;
+}

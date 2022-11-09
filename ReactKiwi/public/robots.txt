@@ -1,0 +1,7 @@
+User-agent: googlebot
+User-agent: google
+User-agent: bingbot
+User-agent: bing
+User-agent: Slurp
+User-agent: DuckDuckBot
+User-agent: ia_archiver
